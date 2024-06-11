@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/GeminiClone/static/css/main.6b8b9970.css",
+    "main.js": "/GeminiClone/static/js/main.4a48a7f9.js",
+    "index.html": "/GeminiClone/index.html",
+    "main.6b8b9970.css.map": "/GeminiClone/static/css/main.6b8b9970.css.map",
+    "main.4a48a7f9.js.map": "/GeminiClone/static/js/main.4a48a7f9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6b8b9970.css",
+    "static/js/main.4a48a7f9.js"
+  ]
+}
